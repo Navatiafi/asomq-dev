@@ -1,0 +1,2 @@
+Dans la level 3 : 03 ,j'ai ouvert le dossier 03 avec le commande cd et quqnd j'ai fait le ls ca ne marche pas donc je fais le ls-a et ca donne ".  ..  .bash_history  .local" et je fait "cat .bash_history" et
+j'ai pu acceder au solution : "RepeatingHistory"
