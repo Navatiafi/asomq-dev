@@ -1,0 +1,2 @@
+Dans la level2: 02, j'ai ouvert la dossier 02 et il y a 2 fichier la dedans " documents,photo " et dans la fichier documents il y a une document "letter:Hey Jerry, I have sent you a letter." et j'ai accede dans le fichier photos et la solution n'est pas aussi dans ce fichier alors je fais "ls -a" et j'ai trouve 
+".  ..  .porb  documents  photos" et j'accede sur le ".porb" et l'executer avec ls mais ca donne rien et alors je fais ls -a et ca donne".  ..  .solution" et je fais cat .solution et il me donne la solution "HiddenIsConfig" 
